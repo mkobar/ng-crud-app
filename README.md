@@ -1,7 +1,7 @@
 Angular1 / Firebase2 CRUD ( Not a TODO ) App
 
-howto:  
-https://jprichter.github.io/2015/09/15/angular-crud/
+page:  
+http://jacobnlangley.com/angular/2016/05/03/angular-crud-app.html
 
 Live demo:  
-https://ang-crud.firebaseapp.com/#/
+http://jacobnlangley.bitbucket.org/ng-crud-app/
